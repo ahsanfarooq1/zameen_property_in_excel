@@ -1,4 +1,4 @@
-# Zameen.com Property Dataset Analysis
+# Zameen.com Property Dataset Analysis in Excel
 
 ## Introduction
 This project analyzes a dataset from Zameen.com, Pakistan's premier real estate portal. The dataset contains detailed information about property listings, including property type, price, location, and other characteristics. This analysis aims to extract meaningful insights from the data using various Excel functions.
