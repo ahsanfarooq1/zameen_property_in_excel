@@ -3,6 +3,10 @@
 ## Introduction
 This project analyzes a dataset from Zameen.com, Pakistan's premier real estate portal. The dataset contains detailed information about property listings, including property type, price, location, and other characteristics. This analysis aims to extract meaningful insights from the data using various Excel functions.
 
+## Dataset
+The dataset used for this analysis is available [here]().
+
+
 ## Data Description
 The dataset comprises 168,428 records and contains the following columns:
 1. `property_id`: Unique identifier for each property.
